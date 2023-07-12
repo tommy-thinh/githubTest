@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     int p=1,n;
-    cout << "n giai thua?: ";
+    cout << "n factorial: ";
     cin >> n;
     // use for loop to calculate factorial
     for (int i=1; i<=n; i++) {
