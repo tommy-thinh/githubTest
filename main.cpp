@@ -9,6 +9,7 @@ int main()
     for (int i=1; i<=n; i++) {
         p*= i;
     }
+    // print out the result 
     cout << "n! = " << p;
     return 0;
 }
